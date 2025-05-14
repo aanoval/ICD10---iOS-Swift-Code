@@ -158,7 +158,7 @@ For support or inquiries, reach out to:
 
 ## 🙌 Credits
 
-- **Developer**: Aan Oval (GitHub: [aanoval](https://github.com/aanoval))
+- **Developer**: Aa Nval (GitHub: [aanoval](https://github.com/aanoval))
 - **Organization**: Aibiz ID
 - **Powered By**: SwiftUI, Xcode, JSON
 
